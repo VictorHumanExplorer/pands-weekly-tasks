@@ -1,4 +1,4 @@
-number =int(input("enter a number: "))
+number =int(input("Enter a number: "))
 print(f'{number} == 3')
 if number == 3:
     answer = True
